@@ -247,11 +247,6 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
-<p id="register">
-  <strong>Register:</strong>
-  To register for the workshop, please visit the <a href="https://www.nmepscor.org/what-we-do/programs/Jornada-LTER-NMSU-data-carpentry-workshop">NM EPSCoR workshop event page</a>.
-</p>
-
 {% comment %}
 WHO CAN ATTEND?
 
