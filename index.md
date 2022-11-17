@@ -309,7 +309,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We used this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code. A pdf copy is <a href="https://jornada-im.github.io/2022-11-10-jornada-geo-online/2022-11-10_jornada_geo_online.pdf">archived here.</a>
 </p>
 <hr/>
 {% endif %}
