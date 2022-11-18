@@ -304,7 +304,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes and Chats</h2>
 
 <p>
-We used this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code. A pdf copy is <a href="https://jornada-im.github.io/2022-11-10-jornada-geo-online/2022-11-10_jornada_geo_online.pdf">archived here</a>, and group chats are available in a <a href="https://jornada-im.github.io/2022-11-10-jornada-geo-online/2022-11_GeospatialDataInR_Chats.zip">chat archive</a>.
+We used this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code. A pdf copy is <a href="https://jornada-im.github.io/2022-11-10-jornada-geo-online/2022-11-10_jornada_geo_online.pdf">archived here</a>, and group chats are available in a <a href="https://jornada-im.github.io/2022-11-10-jornada-geo-online/2022-11_GeospatialDataInR_Chats.zip">zip archive</a>.
 </p>
 <hr/>
 {% endif %}
